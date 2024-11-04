@@ -1,0 +1,20 @@
+.head {
+    display: flex;
+    justify-content: center;
+}
+html {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnPh7830QrbmMA4C0OmUnrbdAZDxGxr88aYrx2fX0XkBwDtuc:https://cdn.vectorstock.com/i/500p/65/90/blue-and-beige-watercolor-plaid-repeat-seamless-vector-42136590.jpg&s");
+}
+.top {
+    border: 1px solid black;
+    display: flex;
+    background-color: #A9B3CE;
+    width: 75%;
+    margin: 0 auto;
+    height: fit-content;
+    justify-content: center;
+
+}
+.box1 {
+    border: 1px solid black;
+}
