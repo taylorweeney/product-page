@@ -3,7 +3,7 @@
     justify-content: center;
 }
 html {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnPh7830QrbmMA4C0OmUnrbdAZDxGxr88aYrx2fX0XkBwDtuc:https://cdn.vectorstock.com/i/500p/65/90/blue-and-beige-watercolor-plaid-repeat-seamless-vector-42136590.jpg&s");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXlYnYnjLmVD7OnXoXX8fQZ274L0R2BSS9KudLyB0DBcM4Pue:https://garden.spoonflower.com/c/15020523/p/f/m/3bBEIioR__OO4CoeroctZZnX-mvNAPNCcy3qM-EkKplDCn1pWj8K0-U/Watercolor%2520Bows%2520%2526%2520Flowers%2520Ditsy%2520Floral%2520Toss%2520Grandmillennial%2520Preppy%2520Traditional%2520by%2520Pretty%2520Festive%2520Design%2520PF127B.jpg&s");
 }
 .top {
     border: 1px solid black;
@@ -18,3 +18,24 @@ html {
 .box1 {
     border: 1px solid black;
 }
+.row {
+    display: flex;
+    justify-content: space-evenly;
+} 
+#row .color1 {
+    display:flex;
+    margin: 10px 10px 10px 10px;
+    justify-content: center;
+}
+#row .color2 {
+    display: flex;
+    margin: 10px 10px 10px 10px;
+    justify-content: center;
+}
+#row .color3 {
+    display: flex;
+    margin: 10px 10px 10px 10px;
+    justify-content: center;
+
+}
+
