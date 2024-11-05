@@ -38,4 +38,24 @@ html {
     justify-content: center;
 
 }
-
+.words {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 75%;
+    background-color: #C9E4E7;
+}
+.designs {
+    display: flex;
+}
+.box2 { 
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+}
+.box3 {
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+}
