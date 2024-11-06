@@ -48,14 +48,31 @@ html {
 }
 .designs {
     display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
 }
 .box2 { 
     display: flex;
     border: 1px solid black;
-    justify-content: center;
+    justify-content: center
 }
-.box3 {
+.box3 { 
     display: flex;
     border: 1px solid black;
-    justify-content: center;
+    justify-content: center
+}
+.box4 {
+    display: flex;
+    border: 1px solid black;
+    justify-content: center
+}
+.box5 {
+    display: flex;
+    border: 1px solid black;
+    justify-content: center
+}
+.box5 {
+    display: flex;
+    border: 1px solid black;
+    justify-content: center
 }
